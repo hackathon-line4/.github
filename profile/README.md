@@ -43,8 +43,8 @@
 
 <table>
 <tr>
-<th width="50%">🧡 보호자</th>
-<th width="50%">💚 당사자</th>
+<th width="50%">보호자</th>
+<th width="50%">당사자</th>
 </tr>
 <tr valign="top">
 <td>
@@ -92,11 +92,11 @@
 <table>
 <tr>
 <td align="center" width="16%"><a href="https://github.com/Dayeon0820"><img src="https://github.com/Dayeon0820.png?size=120" width="80" /><br /><b>이다연</b></a><br /><sub>Frontend</sub></td>
-<td align="center" width="16%"><a href="https://github.com/feseungwon"><img src="https://github.com/feseungwon.png?size=120" width="80" /><br /><b>feseungwon</b></a><br /><sub>Frontend</sub></td>
-<td align="center" width="16%"><a href="https://github.com/YJEND"><img src="https://github.com/YJEND.png?size=120" width="80" /><br /><b>최용주</b></a><br /><sub>Backend · Infra<br />인증 · 설정 · 진동 · 푸시 · 배포</sub></td>
-<td align="center" width="16%"><a href="https://github.com/eunsolee"><img src="https://github.com/eunsolee.png?size=120" width="80" /><br /><b>최은솔</b></a><br /><sub>Backend<br />계정 연결 · 기록</sub></td>
-<td align="center" width="16%"><a href="https://github.com/gksruf22"><img src="https://github.com/gksruf22.png?size=120" width="80" /><br /><b>조한결</b></a><br /><sub>Backend<br />신호 전송 · 당사자 · 위치</sub></td>
-<td align="center" width="16%"><a href="https://github.com/eunbyul0117"><img src="https://github.com/eunbyul0117.png?size=120" width="80" /><br /><b>하은별</b></a><br /><sub>Backend<br />신호 관리 · 리듬</sub></td>
+<td align="center" width="16%"><a href="https://github.com/feseungwon"><img src="https://github.com/feseungwon.png?size=120" width="80" /><br /><b>이승원</b></a><br /><sub>Frontend</sub></td>
+<td align="center" width="16%"><a href="https://github.com/YJEND"><img src="https://github.com/YJEND.png?size=120" width="80" /><br /><b>최용주</b></a><br /><sub>Backend · Infra</sub></td>
+<td align="center" width="16%"><a href="https://github.com/eunsolee"><img src="https://github.com/eunsolee.png?size=120" width="80" /><br /><b>최은솔</b></a><br /><sub>Backend<br /></sub></td>
+<td align="center" width="16%"><a href="https://github.com/gksruf22"><img src="https://github.com/gksruf22.png?size=120" width="80" /><br /><b>조한결</b></a><br /><sub>Backend<br /></sub></td>
+<td align="center" width="16%"><a href="https://github.com/eunbyul0117"><img src="https://github.com/eunbyul0117.png?size=120" width="80" /><br /><b>하은별</b></a><br /><sub>Backend<br /></sub></td>
 </tr>
 </table>
 
